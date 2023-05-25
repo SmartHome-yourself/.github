@@ -41,5 +41,8 @@
 
 </td><td align="center">
 
+[<img src="https://user-images.githubusercontent.com/705724/240842307-335a46af-8d04-4ef3-9a50-34ede7be6cfc.png" width="90%"><br/><b>Barcode Scanner<br/>(ESPHome / Home Assistant)</b>](https://github.com/SmartHome-yourself/barcode-scanner-for-esphome "Barcode Scanner for ESPHome")
+
 </td></tr></table>
 </table>
+
