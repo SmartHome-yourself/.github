@@ -33,15 +33,15 @@
 
 </td></tr> <tr><td align="center">
    
-[<img src="assets/txultimate.png" width="90%"><br/><b>SONOFF TX Ultimate<br/>(ESPHome / Home Assistant)</b>](https://github.com/SmartHome-yourself/sonoff-tx-ultimate-for-esphome "SONOFF TX Ultimate for ESPHome")
+[<img src="https://github.com/SmartHome-yourself/.github/blob/main/profile/assets/txultimate.png" width="90%"><br/><b>SONOFF TX Ultimate<br/>(ESPHome / Home Assistant)</b>](https://github.com/SmartHome-yourself/sonoff-tx-ultimate-for-esphome "SONOFF TX Ultimate for ESPHome")
 
 </td><td align="center">
 
-[<img src="assets/dial.png" width="90%"><br/><b>M5 Stack Dial<br/>(ESPHome / Home Assistant)</b>](https://github.com/SmartHome-yourself/m5-dial-for-esphome "M5 Stack Dial ESPHome Custom Component")
+[<img src="https://github.com/SmartHome-yourself/.github/blob/main/profile/assets/dial.png" width="90%"><br/><b>M5 Stack Dial<br/>(ESPHome / Home Assistant)</b>](https://github.com/SmartHome-yourself/m5-dial-for-esphome "M5 Stack Dial ESPHome Custom Component")
 
 </td><td align="center">
 
-[<img src="assets/tough.png" width="90%"><br/><b>M5 Tough - Touchmenü<br/>(ESPHome / Home Assistant)</b>](https://github.com/SmartHome-yourself/m5-tough-touchmenu-for-esphome "M5Stack Tough - Touchmenü for ESPHome")
+[<img src="https://github.com/SmartHome-yourself/.github/blob/main/profile/assets/tough.png" width="90%"><br/><b>M5 Tough - Touchmenü<br/>(ESPHome / Home Assistant)</b>](https://github.com/SmartHome-yourself/m5-tough-touchmenu-for-esphome "M5Stack Tough - Touchmenü for ESPHome")
 
 </td></tr> <tr><td align="center">
 
