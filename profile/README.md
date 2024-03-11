@@ -32,6 +32,18 @@
 [<img src="https://user-images.githubusercontent.com/705724/233866291-7eb448c1-4187-4f82-89ff-e98bbd886682.png" width="90%"><br/><b>Treppenlauflicht<br/>(Arduino)</b>](https://github.com/SmartHome-yourself/Arduino-Treppenlauflicht "Arduino Treppenlauflicht")
 
 </td></tr> <tr><td align="center">
+   
+[<img src="assets/txultimate.png" width="90%"><br/><b>SONOFF TX Ultimate<br/>(ESPHome / Home Assistant)</b>](https://github.com/SmartHome-yourself/sonoff-tx-ultimate-for-esphome "SONOFF TX Ultimate for ESPHome")
+
+</td><td align="center">
+
+[<img src="assets/dial.png" width="90%"><br/><b>M5 Stack Dial<br/>(ESPHome / Home Assistant)</b>](https://github.com/SmartHome-yourself/m5-dial-for-esphome "M5 Stack Dial ESPHome Custom Component")
+
+</td><td align="center">
+
+[<img src="assets/tough.png" width="90%"><br/><b>M5 Tough - Touchmenü<br/>(ESPHome / Home Assistant)</b>](https://github.com/SmartHome-yourself/m5-tough-touchmenu-for-esphome "M5Stack Tough - Touchmenü for ESPHome")
+
+</td></tr> <tr><td align="center">
 
 [<img src="https://user-images.githubusercontent.com/705724/187570018-8660f432-6f98-4261-a00e-524f9fec9bc6.jpg" width="90%"><br/><b>RGB-LED Uhr<br/>(ESPHome / Home Assistant)</b>](https://github.com/SmartHome-yourself/neopixel-clock-for-esphome "Neopixel RGB-LED Uhr mit LED-Matrix-Display")
 
@@ -43,22 +55,5 @@
 
 [<img src="https://user-images.githubusercontent.com/705724/240842307-335a46af-8d04-4ef3-9a50-34ede7be6cfc.png" width="90%"><br/><b>Barcode Scanner<br/>(ESPHome / Home Assistant)</b>](https://github.com/SmartHome-yourself/barcode-scanner-for-esphome "Barcode Scanner for ESPHome")
 
-</td></tr> <tr><td align="center">
-   
-[<img src="https://user-images.githubusercontent.com/705724/f27c1a71-3c6c-4602-8fc3-5b0b1bebd2c7.png" width="90%"><br/><b>SONOFF TX Ultimate<br/>(ESPHome / Home Assistant)</b>](https://github.com/SmartHome-yourself/sonoff-tx-ultimate-for-esphome "SONOFF TX Ultimate for ESPHome")
-
-</td><td align="center">
-
-[<img src="https://user-images.githubusercontent.com/705724/9cd8671c-16cd-42ca-a1cb-346b7cece3d2.png" width="90%"><br/><b>M5 Stack Dial<br/>(ESPHome / Home Assistant)</b>](https://github.com/SmartHome-yourself/m5-dial-for-esphome "M5 Stack Dial ESPHome Custom Component")
-
-</td><td align="center">
-
-[<img src="https://user-images.githubusercontent.com/705724/e2c35a8f-513c-4658-8fbe-a6ee1efd3de6.png" width="90%"><br/><b>M5 Tough - Touchmenü<br/>(ESPHome / Home Assistant)</b>](https://github.com/SmartHome-yourself/m5-tough-touchmenu-for-esphome "M5Stack Tough - Touchmenü for ESPHome")
-
-</td></tr>
+</td></tr> 
 </table>
-
-
-![m5-dial_thumb1](https://github.com/SmartHome-yourself/.github/assets/705724/9cd8671c-16cd-42ca-a1cb-346b7cece3d2)
-![m5-tough_b](https://github.com/SmartHome-yourself/.github/assets/705724/e2c35a8f-513c-4658-8fbe-a6ee1efd3de6)
-![yt_thumb_sonoff-tx-ultimate-custom-component-esphome](https://github.com/SmartHome-yourself/.github/assets/705724/f27c1a71-3c6c-4602-8fc3-5b0b1bebd2c7)
